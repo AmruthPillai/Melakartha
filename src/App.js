@@ -7,7 +7,7 @@ function App() {
   const handleClick = async (key) => {
     try {
       setKey(key);
-      await (await new Audio(`Melakartha/assets/sounds/tabla/${key}.wav`)).play();
+      await (await new Audio(`assets/sounds/tabla/${key}.wav`)).play();
       setTimeout(() => setKey(''), 200);
     } catch (error) {}
   };
