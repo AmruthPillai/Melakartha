@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Melakartha/static/css/main.a318936a.chunk.css",
-    "main.js": "/Melakartha/static/js/main.00edaf1c.chunk.js",
-    "main.js.map": "/Melakartha/static/js/main.00edaf1c.chunk.js.map",
+    "main.css": "/Melakartha/static/css/main.ce2c4504.chunk.css",
+    "main.js": "/Melakartha/static/js/main.94273fe6.chunk.js",
+    "main.js.map": "/Melakartha/static/js/main.94273fe6.chunk.js.map",
     "runtime-main.js": "/Melakartha/static/js/runtime-main.ebec8ec8.js",
     "runtime-main.js.map": "/Melakartha/static/js/runtime-main.ebec8ec8.js.map",
     "static/js/2.817aef80.chunk.js": "/Melakartha/static/js/2.817aef80.chunk.js",
     "static/js/2.817aef80.chunk.js.map": "/Melakartha/static/js/2.817aef80.chunk.js.map",
     "index.html": "/Melakartha/index.html",
-    "static/css/main.a318936a.chunk.css.map": "/Melakartha/static/css/main.a318936a.chunk.css.map",
+    "static/css/main.ce2c4504.chunk.css.map": "/Melakartha/static/css/main.ce2c4504.chunk.css.map",
     "static/js/2.817aef80.chunk.js.LICENSE.txt": "/Melakartha/static/js/2.817aef80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ebec8ec8.js",
     "static/js/2.817aef80.chunk.js",
-    "static/css/main.a318936a.chunk.css",
-    "static/js/main.00edaf1c.chunk.js"
+    "static/css/main.ce2c4504.chunk.css",
+    "static/js/main.94273fe6.chunk.js"
   ]
 }
