@@ -2,6 +2,6 @@
 
 # Melakartha
 
-A web app that lets you play [Tabla](https://en.wikipedia.org/wiki/Tabla).
+A simple web app that lets you play [Tabla](https://en.wikipedia.org/wiki/Tabla).
 
 ### https://amruthpillai.github.io/Melakartha/
