@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/melakartha/static/css/main.a318936a.chunk.css",
-    "main.js": "/melakartha/static/js/main.1ec3e2d0.chunk.js",
-    "main.js.map": "/melakartha/static/js/main.1ec3e2d0.chunk.js.map",
-    "runtime-main.js": "/melakartha/static/js/runtime-main.741b3583.js",
-    "runtime-main.js.map": "/melakartha/static/js/runtime-main.741b3583.js.map",
-    "static/js/2.16dc3672.chunk.js": "/melakartha/static/js/2.16dc3672.chunk.js",
-    "static/js/2.16dc3672.chunk.js.map": "/melakartha/static/js/2.16dc3672.chunk.js.map",
-    "index.html": "/melakartha/index.html",
-    "static/css/main.a318936a.chunk.css.map": "/melakartha/static/css/main.a318936a.chunk.css.map",
-    "static/js/2.16dc3672.chunk.js.LICENSE.txt": "/melakartha/static/js/2.16dc3672.chunk.js.LICENSE.txt"
+    "main.css": "/Melakartha/static/css/main.a318936a.chunk.css",
+    "main.js": "/Melakartha/static/js/main.00edaf1c.chunk.js",
+    "main.js.map": "/Melakartha/static/js/main.00edaf1c.chunk.js.map",
+    "runtime-main.js": "/Melakartha/static/js/runtime-main.ebec8ec8.js",
+    "runtime-main.js.map": "/Melakartha/static/js/runtime-main.ebec8ec8.js.map",
+    "static/js/2.817aef80.chunk.js": "/Melakartha/static/js/2.817aef80.chunk.js",
+    "static/js/2.817aef80.chunk.js.map": "/Melakartha/static/js/2.817aef80.chunk.js.map",
+    "index.html": "/Melakartha/index.html",
+    "static/css/main.a318936a.chunk.css.map": "/Melakartha/static/css/main.a318936a.chunk.css.map",
+    "static/js/2.817aef80.chunk.js.LICENSE.txt": "/Melakartha/static/js/2.817aef80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.741b3583.js",
-    "static/js/2.16dc3672.chunk.js",
+    "static/js/runtime-main.ebec8ec8.js",
+    "static/js/2.817aef80.chunk.js",
     "static/css/main.a318936a.chunk.css",
-    "static/js/main.1ec3e2d0.chunk.js"
+    "static/js/main.00edaf1c.chunk.js"
   ]
 }
